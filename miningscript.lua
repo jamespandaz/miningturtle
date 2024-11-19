@@ -1,7 +1,7 @@
 --[[Copyright PrinceTommen - Script developed for CyanideEpic (twitch.tv/cyanideepic)]]--
 --[[You are all allowed to use it as long as you don't pretend it's yours]]--
 --[[Have fun !]]--
-version =" 3.5"
+version =" 3.5.1"
 --[[
 Release Note:
 3.5.1:  Fixed: Fixed deprecated key_id's and use keys instead
