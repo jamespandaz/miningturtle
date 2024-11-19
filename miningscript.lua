@@ -4,6 +4,7 @@
 version =" 3.5"
 --[[
 Release Note:
+3.5.1:  Fixed: Fixed deprecated key_id's and use keys instead
 3.5:    Added:  Multiple item slots system, including the items to throw (suggested by Portsanta and CyanideEpic)
         Major interface enhancements to make the configuration faster in spite of the new options
         Enhanced item shortage security, supporting the multiple slots
@@ -31,7 +32,6 @@ Release Note:
         Better interface, instructions remain visible and a line is dedicated to the fuel status (updated automatically)
         Option to throw cobblestone automatically (suggested by Niseg)
         Fixed:  Refueling issue in certain circumstances (reported by CyanideEpic)
-3.1.1:  Fixed: Fixed deprecated key_id's and use keys instead
 ]]--
 function resetScreen()
     term.clear()
